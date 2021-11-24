@@ -1,0 +1,26 @@
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.exe
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.deps.json
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.runtimeconfig.json
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.runtimeconfig.dev.json
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.dll
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.pdb
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.AssemblyInfo.cs
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.dll
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.pdb
+D:\VisualStudioProjetos\Propriedades e operações com DateTime\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.genruntimeconfig.cache
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.exe
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.deps.json
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.runtimeconfig.json
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.runtimeconfig.dev.json
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.dll
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\bin\Debug\netcoreapp3.1\Propriedades e operações com DateTime.pdb
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.AssemblyInfo.cs
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.dll
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.pdb
+D:\VisualStudioProjetos\Propriedades e operações com DateTime manda para o git\Propriedades e operações com DateTime\obj\Debug\netcoreapp3.1\Propriedades e operações com DateTime.genruntimeconfig.cache
