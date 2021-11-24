@@ -1,6 +1,6 @@
 # Propriedades e operações com DateTime
 
-Manipulação de dados e conhecendo as funções;
+Manipulação de dados, conhecendo as funções e formatando string;
 
 Propriedades
 <br/>• Date (DateTime)
